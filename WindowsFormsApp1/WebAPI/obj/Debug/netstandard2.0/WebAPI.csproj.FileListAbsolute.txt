@@ -1,0 +1,9 @@
+C:\Practice\WebAPI\App\WindowsFormsApp1\WebAPI\bin\Debug\netstandard2.0\WebAPI.deps.json
+C:\Practice\WebAPI\App\WindowsFormsApp1\WebAPI\bin\Debug\netstandard2.0\WebAPI.dll
+C:\Practice\WebAPI\App\WindowsFormsApp1\WebAPI\obj\Debug\netstandard2.0\WebAPI.csprojAssemblyReference.cache
+C:\Practice\WebAPI\App\WindowsFormsApp1\WebAPI\obj\Debug\netstandard2.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Practice\WebAPI\App\WindowsFormsApp1\WebAPI\obj\Debug\netstandard2.0\WebAPI.AssemblyInfoInputs.cache
+C:\Practice\WebAPI\App\WindowsFormsApp1\WebAPI\obj\Debug\netstandard2.0\WebAPI.AssemblyInfo.cs
+C:\Practice\WebAPI\App\WindowsFormsApp1\WebAPI\bin\Debug\netstandard2.0\WebAPI.pdb
+C:\Practice\WebAPI\App\WindowsFormsApp1\WebAPI\obj\Debug\netstandard2.0\WebAPI.dll
+C:\Practice\WebAPI\App\WindowsFormsApp1\WebAPI\obj\Debug\netstandard2.0\WebAPI.pdb

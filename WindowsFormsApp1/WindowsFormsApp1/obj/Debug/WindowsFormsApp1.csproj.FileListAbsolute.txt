@@ -1,0 +1,16 @@
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WebAPI.dll
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WebAPI.pdb
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Practice\WebAPI\App\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SunForm.resources
